@@ -1,0 +1,35 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="MainWinTitle">Калькулятор</system:String>
+    
+    <system:String x:Key="OSNO">ОСНО</system:String>
+    <system:String x:Key="USN15">УСН 15%</system:String>
+    <system:String x:Key="USN6">УСН 6%</system:String>
+    
+    
+    <system:String x:Key="TaxRegime">Режим налогообложения:</system:String>
+    <system:String x:Key="NumberOfOperaions">Операций:</system:String>
+    <system:String x:Key="NumberOfEmployees">Сотрудников:</system:String>
+    <system:String x:Key="CurrencyAccounts">Валютных счетов:</system:String>
+    <system:String x:Key="NumberOfKKM">Число ККМ:</system:String>
+    <system:String x:Key="NumberOfExpats">Иностранных сотрадников:</system:String>
+
+    <system:String x:Key="Oprions">Опции:</system:String>
+    <system:String x:Key="Ved">ВЭД</system:String>
+    <system:String x:Key="Branches">Филиалы</system:String>
+    <system:String x:Key="LeasingCredits">Лизинг или кредиты</system:String>
+    <system:String x:Key="ClientBank">Клиент-Банк</system:String>
+    <system:String x:Key="PrimaryDocuments">Оформляем первичные документы</system:String>
+    <system:String x:Key="FixedAssets">Основные средства</system:String>
+    <system:String x:Key="Manufacture">Производство</system:String>
+
+    <system:String x:Key="AdditionServices">Дополнительные услуги</system:String>
+    <system:String x:Key="PreparingDocumentsForTrading">Подготовка документов для торгов</system:String>
+    <system:String x:Key="ResubmissionOfReport">Повторная подача отчётности в связи с действиями клиента</system:String>
+    <system:String x:Key="KeepingDocumentsOfPastYears">Хранение документов прошлых лет</system:String>
+    
+    <system:String x:Key="Calculate">Расчитать</system:String>
+    
+</ResourceDictionary>
